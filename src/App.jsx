@@ -151,7 +151,7 @@ function Home() {
       <section className="hero container">
         <motion.div className="hero-copy" initial={{ opacity: 0, y: 26 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: .8 }}>
           <div className="availability"><span className="live-dot"/> OPEN TO INTERNSHIP OPPORTUNITIES</div>
-          <p className="hero-overline">SOFTWARE ENGINEERING / 2026—28</p>
+          <p className="hero-overline">SOFTWARE ENGINEERING / 2024—28</p>
           <h1 className="hero-name">SUMANSH<br/><span className="gradient-text">YADAV<span className="name-period">.</span></span></h1>
           <div className="hero-role"><span className="role-line"/> BACKEND-FOCUSED FULL-STACK DEVELOPER</div>
           <p className="hero-description">I turn ideas into useful digital products — building robust backends, clean APIs, and interfaces that feel alive.</p>
